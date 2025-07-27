@@ -1,0 +1,1 @@
+Designed and built a Two-Way Intercom System using an LM386 audio amplifier, speakers, microphones, resistors, capacitors, and an SPDT switch to enable switching between transmit and receive modes. The circuit was prototyped on a breadboard to achieve clear, real-time voice communication between two points, with potential applications in homes, offices, and public spaces.
